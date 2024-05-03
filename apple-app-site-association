@@ -5,12 +5,14 @@ Content-Length: 245
 {
     "webcredentials": {
         "apps": [
-            "ANCZ566948.com.example.iosUserPwd"
+            "ANCZ566948.com.example.iosUserPwd",
+"2LN4R3W543.com.example.iosUserPwd"
         ]
     },
     "applinks": {
         "apps": [
-            "ANCZ566948.com.example.iosUserPwd"
+            "ANCZ566948.com.example.iosUserPwd",
+"2LN4R3W543.com.example.iosUserPwd"
         ],
         "details": [
             {
@@ -18,7 +20,13 @@ Content-Length: 245
                 "paths": [
                     "*"
                 ]
-            }
+            },{
+"appID": "2LN4R3W543.com.example.iosUserPwd",
+"paths": [
+                    "*"
+                ]
+
+}
         ]
     }
 }
