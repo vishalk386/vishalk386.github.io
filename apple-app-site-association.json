@@ -1,11 +1,21 @@
+
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "ANCZ566948.com.example.iosUserPwd",
-        "paths": ["*"]
-      }
-    ]
-  }
+    "webcredentials": {
+        "apps": [
+             "ANCZ566948.com.example.iosUserPwd",
+        ]
+    },
+    "applinks": {
+        "apps": [
+             "ANCZ566948.com.example.iosUserPwd",
+        ],
+        "details": [
+            {
+                "appID": "ANCZ566948.com.example.iosUserPwd",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
 }
