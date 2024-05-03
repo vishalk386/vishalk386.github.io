@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ANCZ566948.com.example.iosUserPwd",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
